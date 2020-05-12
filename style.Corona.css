@@ -1,0 +1,128 @@
+.colWidth12-12{
+    width:100%;
+}
+.colWidth11-12{
+    width:91.7%;
+}
+.colWidth10-12{
+    width:83.3%;
+}
+.colWidth9-12{
+    width:74%;
+}
+.colWidth8-12{
+    width:66.7%;
+}
+.colWidth7-12{
+    width:58.3%;
+}
+.colWidth6-12{
+    width:50%;
+}
+.colWidth5-12{
+    width:42.7%;
+}
+.colWidth4-12{
+    width:33.3%;
+}
+.colWidth3-12{
+    width:25%;
+}
+.colWidth2-12{
+    width:16.7%;
+}
+.colWidth1-12{
+    width:8.33%;
+}
+.hi50{
+    height:50px;
+}
+.hi300{
+    height:300px;
+}
+.hi50{
+    height:50px;
+}
+#navbar{
+    background-color:rgba(0,0,.7);  
+}
+a {
+    color:white;
+    text-decoration: none;
+}
+.flexCentered {
+    display: flex ;
+     flex-direction: row ;
+    flex-wrap: wrap ;
+    justify-content: space-around ;
+    align-items: center ;
+    align-content: center ;
+}
+P {
+    font-family: 'Dancing Script', cursive;
+    margin-left:500px
+    margin-right:500px; 
+}
+.foto-personajes{
+    width:150%;
+    height:150%;
+}
+
+
+.foto-quijote{
+    width:150%;
+    height:100%;
+}
+
+.foto-dulcinea2{
+    width:150%;
+    height:150%;
+}
+.foto-sancho{
+    width:150%;
+    height:150%;
+}
+.foto-cervantes{
+    width:150%;
+    height:150%;
+}
+.newspaper { 
+column-count: 4;
+padding: 10px;
+width: 100%; 
+}
+.newspaper2 { 
+column-count: 1;
+padding: 10px;
+width: 100%;
+}
+.newspaper3 { 
+column-count: 3;
+padding: 10px;
+width: 100%;
+}
+.newspaper4 { 
+column-count: 3; 
+padding: 10px;
+width: 100%;
+text-indent: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
